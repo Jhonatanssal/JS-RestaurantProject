@@ -1,0 +1,29 @@
+{
+  "name": "js-restaurantproject",
+  "version": "1.0.0",
+  "description": "Project is built using webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssarrazolaa/JS-RestaurantProject.git"
+  },
+  "author": "Jhonatan S. <jhonatan6512s.a@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jssarrazolaa/JS-RestaurantProject/issues"
+  },
+  "homepage": "https://github.com/jssarrazolaa/JS-RestaurantProject#readme",
+  "devDependencies": {
+    "sass": "^1.28.0",
+    "sass-loader": "^10.0.4",
+    "webpack": "^5.3.2",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
