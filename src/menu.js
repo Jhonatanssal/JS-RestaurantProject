@@ -125,11 +125,9 @@ const menu = () => {
 
   const menuImgs = document.querySelectorAll('.menu-item');
 
-  menuImgs.forEach( (item) => {
+  menuImgs.forEach((item) => {
     item.classList.add('card', 'col-3', 'm-3', 'p-2');
-  })
-
-  const menuTitles = document.querySelectorAll()
+  });
 };
 
 export default menu;
