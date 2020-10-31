@@ -1,5 +1,4 @@
 import home from './home';
-import clear from './clearPage';
 import btnFunctionality from './logic';
 
 const nav = () => {
