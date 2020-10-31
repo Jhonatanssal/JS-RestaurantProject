@@ -4,7 +4,7 @@
 
 > This is a Restaurant page built using only JS with DOM manipulation to display all of the content into the HTML file.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./src/img/app_screenshot.png)
 
 ## Built With
 
