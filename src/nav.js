@@ -18,7 +18,7 @@ const nav = () => {
   container.appendChild(content);
   main.appendChild(content);
 
-  nav.classList.add('navbar', 'navbar-expand', 'navbar-light', 'bg-danger', 'd-flex', 'justify-content-between', 'shadow-sm');
+  nav.classList.add('navbar', 'navbar-expand', 'navbar-light', 'bg-danger', 'd-flex', 'justify-content-between', 'shadow-sm', 'fixed-top');
 
   navItem1.classList.add('btn', 'nav-btn', 'home', 'text-white', 'font-weight-bold');
   navItem1.textContent = 'Home';

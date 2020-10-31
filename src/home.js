@@ -13,7 +13,7 @@ const home = () => {
   coverImg.setAttribute('src', homeCover);
   coverImg.classList.add('img-fluid', 'home-img');
   div1.setAttribute('id', 'main-element');
-  div1.classList.add('mt-2', 'text-center', 'd-flex', 'flex-column', 'w-75', 'mx-auto');
+  div1.classList.add('pt-3', 'mt-5', 'text-center', 'd-flex', 'flex-column', 'w-75', 'mx-auto');
   h1.classList.add('font-weight-bolder', 'text-danger', 'bg-light', 'p-2', 'rounded', 'col-7', 'mx-auto');
   menuBtn.classList.add('btn', 'btn-danger', 'menu', 'col-3', 'mx-auto');
   menuBtn.textContent = 'Menu';
