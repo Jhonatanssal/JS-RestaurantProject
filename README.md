@@ -23,7 +23,7 @@
 
 To get a local copy up and running follow these simple example steps:
 
-- Open your terminal and run this command `https://github.com/jssarrazolaa/JS-RestaurantProject.git`
+- Open your terminal and run this command `git clone https://github.com/jssarrazolaa/JS-RestaurantProject.git`
 
 ### Prerequisites
 
