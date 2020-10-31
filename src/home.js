@@ -1,3 +1,5 @@
+/* eslint-disable import/no-cycle */
+
 import homeCover from './img/home-cover.jpg';
 import btnFunctionality from './logic';
 
