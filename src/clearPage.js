@@ -1,6 +1,6 @@
 const clear = () => {
-  const what = document.getElementById('main-element');
-  what.parentNode.removeChild(what);
+  const element = document.getElementById('main-element');
+  element.parentNode.removeChild(element);
 };
 
 export default clear;
